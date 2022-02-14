@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Azri Hasin 👋
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-
 ## I'm a Web and Mobile App Developer!!
 
 - 🌱 I’m currently learning everything 🤣
@@ -77,6 +75,10 @@ Here are some ideas to get you started:
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
+
+
+
+
 
 
 
